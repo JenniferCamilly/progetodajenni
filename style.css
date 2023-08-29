@@ -2,4 +2,8 @@
     --coe-de-fundo: #EBECEE;
 }
 body{
-     background-color:  ;
+     background-color:var(--cor-de-fundo)  ;
+}
+
+
+h1{}
